@@ -1,7 +1,7 @@
 Horriblegrabber
 ===============
 
-A small script meant for downloading ongoing anime.
+A ~~small~~ horrible script meant for downloading ~~ongoing~~ horrible anime.
 
 This script rips the magnet link out of HorribleSubs' RRS feed and blabs it into the browser. Luckily that browser just so happens to ~~usually~~ redirect it to your torrent client :ok_hand:.
 
