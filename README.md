@@ -28,6 +28,5 @@ It can only rip items that are in their RSS feed, meaning not everything from Ho
 [Apache 2.0 license](LICENSE)
 
 ## Anime or Animes
-[Wiktionary says both is ok so gfy 
-![](http://www.reactiongifs.com/r/bth.gif)
-](https://en.wiktionary.org/wiki/anime#Noun)
+[Wiktionary says both is ok so gfy](https://en.wiktionary.org/wiki/anime#Noun)
+[![](http://www.reactiongifs.com/r/bth.gif)](https://en.wiktionary.org/wiki/anime#Noun)
